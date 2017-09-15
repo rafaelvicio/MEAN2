@@ -1,2 +1,0 @@
-# MEAN2
-MEAN2
